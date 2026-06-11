@@ -1,4 +1,4 @@
-# Measuring ESG Exposure of U.S. Mutual Fund Portfolios
+# Measuring ESG Exposure of U.S. Fund Portfolios
 
 **A reproducible pipeline linking SEC N-PORT holdings to S&P Global ESG scores and CSA industry/sector classifications**
 

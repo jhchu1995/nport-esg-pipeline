@@ -1,0 +1,14 @@
+# Data outputs — large and/or under WRDS / S&P Global license; never commit
+data/
+*.csv
+*.log
+raw_xml/
+
+# WRDS credentials
+.pgpass
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
